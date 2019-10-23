@@ -7,3 +7,5 @@ wriiiiiite
 write
 
 TODO: add about aliens and Mars
+
+TODO: create a conflict
